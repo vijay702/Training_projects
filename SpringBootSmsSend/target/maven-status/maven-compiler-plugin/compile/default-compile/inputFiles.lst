@@ -1,0 +1,10 @@
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\configuration\TwilloIniatilizer.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\service\SmsService.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\SpringBootSmsSendApplication.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\service\SmsSender.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\service\TwilioSmsSender.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\configuration\TwilioConfiguration.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\controller\SmsController.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\model\SmsRequest.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\util\ServiceUtill.java
+D:\eclipse worlplace\SpringBootSmsSend\src\main\java\util\Service1Utill.java
